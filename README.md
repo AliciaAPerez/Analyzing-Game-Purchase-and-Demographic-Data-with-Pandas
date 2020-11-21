@@ -1,4 +1,4 @@
-# Analyzing_Game_Purchase_and_Demographic_Data_with_Pandas
+# Analyzing Game Purchase and Demographic Data with Pandas
 
 The code in this project is to analyze the provided game purchase data for a mobile called "Heroes of Pymoli."
 
