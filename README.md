@@ -13,9 +13,9 @@ The code in this project is to analyze the provided game purchase data for a mob
 This code is to analyze the gender and age breakdown of the game purchase data for "Heroes of Pymoli" in order to evaluate the demographics and buying habits of the players who purchase game items. 
 
 ## Technologies
-Project is created with:
-*Pandas 1.0.05
-*Jupyter Notebook 4.6.3
+Project is created with:  
+*Pandas 1.0.05  
+*Jupyter Notebook 4.6.3  
 
 ## Setup
 To run the code, open it with jupyter Notebook.
