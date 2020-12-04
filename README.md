@@ -3,11 +3,11 @@
 The code in this project is to analyze the provided game purchase data for a mobile called "Heroes of Pymoli."
 
 ## Table of Contents 
-*[General info](#General-info)  
-*[Technologies](#technologies)  
-*[Setup](#setup)  
-*[Images](#images)  
-*[Overview](#overview)  
+* [General info](#General-info)  
+* [Technologies](#technologies)  
+* [Setup](#setup)  
+* [Images](#images)  
+* [Overview](#overview)  
 
 ## General Info
 This code is to analyze the gender and age breakdown of the game purchase data for "Heroes of Pymoli" in order to evaluate the demographics and buying habits of the players who purchase game items. 
